@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <stdlib.h>
 #include <glut.h>
 #include <soil.h>
 #include <time.h>

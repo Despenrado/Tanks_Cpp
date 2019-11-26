@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <stdlib.h>
 #include "Bullet.h"
 #include <time.h>
 #include <glut.h>

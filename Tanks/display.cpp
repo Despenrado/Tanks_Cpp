@@ -292,7 +292,7 @@ void ticks(int = 0)
 {
 	display();
 	
-	glutTimerFunc(16, ticks, 0);
+	glutTimerFunc(17, ticks, 0);
 }
 
 
